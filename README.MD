@@ -8,6 +8,7 @@ This repository is record of my challenge of atcoder
 | ----------- | ------------------------------------------------------------------ | ----- |
 | 2021/05/15  | [AtCoder Beginner Contest 201](https://atcoder.jp/contests/abc201) | 300   |
 | 2021/05/16~ | [競プロ典型 90 問](https://atcoder.jp/contests/typical90)          | None  |
+| 2021/05/22  | [AtCoder Beginner Contest 202](https://atcoder.jp/contests/abc202) | 600   |
 
 ## Tips for python
 
